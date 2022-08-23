@@ -1,0 +1,5 @@
+name: IDrop
+version: '${project.version}'
+main: pw.i6l.spigot.airdrop.IDropPlugin
+api-version: 1.16
+authors: [ TheCoder03 ]
